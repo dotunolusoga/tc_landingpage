@@ -1,0 +1,19 @@
+{
+  "name": "tc_landingpage",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dotunolusoga/tc_landingpage",
+  "authors": [
+    "Dotun Olusoga <adedotun.olusoga@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.4"
+  }
+}
